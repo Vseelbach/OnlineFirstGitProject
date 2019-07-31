@@ -63,9 +63,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-28" />
+    <option name="x" value="8" />
     <option name="y" value="23" />
-    <option name="width" value="618" />
+    <option name="width" value="679" />
     <option name="height" value="719" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -145,14 +145,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-28" y="23" width="618" height="719" extended-state="0" />
+    <frame x="8" y="23" width="679" height="719" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2482639" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2244898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4338118" />
